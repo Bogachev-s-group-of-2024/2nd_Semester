@@ -1,0 +1,25 @@
+# DO NOT TOUCH
+
+# C CODE
+*.c
+*.h
+Makefile
+
+# VIM
+*~
+*.sw*
+*.bak
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# CLion and CMake build folders
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+build/
+*.cmake
