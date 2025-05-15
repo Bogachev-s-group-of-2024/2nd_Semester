@@ -1,0 +1,913 @@
+=================
+=== TASK 1 ===
+=================
+x=0 h=1e-8 k=0
+./a01.out : Task = 1 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=1
+./a01.out : Task = 1 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=2
+./a01.out : Task = 1 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=3
+./a01.out : Task = 1 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=4
+./a01.out : Task = 1 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=5
+./a01.out : Task = 1 Res = -1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=6
+./a01.out : Task = 1 Res = -2.442491e-07 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=0
+./a01.out : Task = 1 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=1
+./a01.out : Task = 1 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=2
+./a01.out : Task = 1 Res = -1.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=3
+./a01.out : Task = 1 Res = 2.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=4
+./a01.out : Task = 1 Res = -2.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=5
+./a01.out : Task = 1 Res = -2.718282e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=6
+./a01.out : Task = 1 Res = 7.396450e-02 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=0
+./a01.out : Task = 1 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=1
+./a01.out : Task = 1 Res = 1.000001e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=2
+./a01.out : Task = 1 Res = 2.001005e+03 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=3
+./a01.out : Task = 1 Res = 3.002012e+06 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=4
+./a01.out : Task = 1 Res = 4.003015e+09 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=5
+./a01.out : Task = 1 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=6
+./a01.out : Task = 1 Res = -8.000028e-11 Count = 2 T = 0.00
+
+
+=================
+=== TASK 2 ===
+=================
+x=0 h=1e-8 k=0
+./a02.out : Task = 2 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=1
+./a02.out : Task = 2 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=2
+./a02.out : Task = 2 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=3
+./a02.out : Task = 2 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=4
+./a02.out : Task = 2 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=5
+./a02.out : Task = 2 Res = -1.000000e+00 Count = 2 T = 0.00
+
+x=0 h=1e-8 k=6
+./a02.out : Task = 2 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=0
+./a02.out : Task = 2 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=1
+./a02.out : Task = 2 Res = 1.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=2
+./a02.out : Task = 2 Res = -1.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=3
+./a02.out : Task = 2 Res = 2.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=4
+./a02.out : Task = 2 Res = -2.000000e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=5
+./a02.out : Task = 2 Res = -2.718282e+00 Count = 2 T = 0.00
+
+x=-1 h=1e-8 k=6
+./a02.out : Task = 2 Res = 7.396450e-02 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=0
+./a02.out : Task = 2 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=1
+./a02.out : Task = 2 Res = 1.000001e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=2
+./a02.out : Task = 2 Res = 2.001005e+03 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=3
+./a02.out : Task = 2 Res = 3.002012e+06 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=4
+./a02.out : Task = 2 Res = 4.003015e+09 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=5
+./a02.out : Task = 2 Res = 0.000000e+00 Count = 2 T = 0.00
+
+x=1000 h=1e-8 k=6
+./a02.out : Task = 2 Res = -7.999995e-11 Count = 2 T = 0.00
+
+
+=================
+=== TASK 3 ===
+=================
+x=0 h=1e-8 k=0
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=1
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=2
+./a03.out : Task = 3 Res = 2.220446e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=3
+./a03.out : Task = 3 Res = 2.220446e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=4
+./a03.out : Task = 3 Res = 2.220446e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=5
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=0 h=1e-8 k=6
+./a03.out : Task = 3 Res = -4.884981e+01 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=0
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=1
+./a03.out : Task = 3 Res = 1.110223e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=2
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=3
+./a03.out : Task = 3 Res = -2.220446e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=4
+./a03.out : Task = 3 Res = 4.440892e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=5
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=-1 h=1e-8 k=6
+./a03.out : Task = 3 Res = 2.775558e-01 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=0
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=1
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=2
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=3
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=4
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=5
+./a03.out : Task = 3 Res = 0.000000e+00 Count = 3 T = 0.00
+
+x=1000 h=1e-8 k=6
+./a03.out : Task = 3 Res = -6.617445e-08 Count = 3 T = 0.00
+
+
+=================
+=== TASK 4 ===
+=================
+a=-1 b=1 n=1000 k=0
+./a04.out : Task = 4 Res = 2.000000e+00 Count = 1001 T = 0.00
+
+a=1e99 b=1e101 n=1000 k=1
+./a04.out : Task = 4 Res = 4.999500e+201 Count = 1001 T = 0.00
+
+a=-1 b=1 n=1000 k=1
+./a04.out : Task = 4 Res = 2.000000e+00 Count = 1001 T = 0.00
+
+a=-5 b=0 n=1000 k=2
+./a04.out : Task = 4 Res = 3.416669e+01 Count = 1001 T = 0.00
+
+a=0 b=7 n=1000 k=2
+./a04.out : Task = 4 Res = 1.458334e+02 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=2
+./a04.out : Task = 4 Res = 3.380401e+05 Count = 1001 T = 0.00
+
+a=-10 b=100 n=1000 k=2
+./a04.out : Task = 4 Res = 3.387269e+05 Count = 1001 T = 0.00
+
+a=-6 b=-3 n=1000 k=3
+./a04.out : Task = 4 Res = -2.512501e+02 Count = 1001 T = 0.00
+
+a=0 b=10 n=1000 k=3
+./a04.out : Task = 4 Res = 2.893336e+03 Count = 1001 T = 0.00
+
+a=-3 b=0 n=1000 k=4
+./a04.out : Task = 4 Res = 3.585007e+01 Count = 1001 T = 0.00
+
+a=0 b=5 n=1000 k=4
+./a04.out : Task = 4 Res = 8.404179e+02 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=4
+./a04.out : Task = 4 Res = 2.025318e+09 Count = 1001 T = 0.00
+
+a=-10 b=9 n=1000 k=4
+./a04.out : Task = 4 Res = 3.153609e+04 Count = 1001 T = 0.00
+
+a=-4 b=-1 n=1000 k=5
+./a04.out : Task = 4 Res = 5.187991e+01 Count = 1001 T = 0.00
+
+a=2 b=5 n=1000 k=5
+./a04.out : Task = 4 Res = 1.285974e-01 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=5
+./a04.out : Task = 4 Res = 4.543057e-05 Count = 1001 T = 0.00
+
+a=-9 b=10 n=1000 k=5
+./a04.out : Task = 4 Res = 8.103328e+03 Count = 1001 T = 0.00
+
+a=-10 b=-7 n=1000 k=6
+./a04.out : Task = 4 Res = 1.713265e-03 Count = 1001 T = 0.00
+
+a=6 b=9 n=1000 k=6
+./a04.out : Task = 4 Res = 2.220486e-03 Count = 1001 T = 0.00
+
+a=-1 b=2 n=1000 k=6
+./a04.out : Task = 4 Res = 5.689056e-01 Count = 1001 T = 0.00
+
+a=-10 b=100 n=1000 k=6
+./a04.out : Task = 4 Res = 6.239305e-01 Count = 1001 T = 0.00
+
+a=0 b=100 n=100000 k=5
+./a04.out : Task = 4 Res = 1.000000e+00 Count = 100001 T = 0.00
+
+
+=================
+=== TASK 5 ===
+=================
+a=-1 b=1 n=1000 k=0
+./a05.out : Task = 5 Res = 2.000000e+00 Count = 2001 T = 0.00
+
+a=1e99 b=1e101 n=1000 k=1
+./a05.out : Task = 5 Res = 4.999500e+201 Count = 2001 T = 0.00
+
+a=-1 b=1 n=1000 k=1
+./a05.out : Task = 5 Res = 2.000000e+00 Count = 2001 T = 0.00
+
+a=-5 b=0 n=1000 k=2
+./a05.out : Task = 5 Res = 3.416667e+01 Count = 2001 T = 0.00
+
+a=0 b=7 n=1000 k=2
+./a05.out : Task = 5 Res = 1.458333e+02 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=2
+./a05.out : Task = 5 Res = 3.380400e+05 Count = 2001 T = 0.00
+
+a=-10 b=100 n=1000 k=2
+./a05.out : Task = 5 Res = 3.387267e+05 Count = 2001 T = 0.00
+
+a=-6 b=-3 n=1000 k=3
+./a05.out : Task = 5 Res = -2.512500e+02 Count = 2001 T = 0.00
+
+a=0 b=10 n=1000 k=3
+./a05.out : Task = 5 Res = 2.893333e+03 Count = 2001 T = 0.00
+
+a=-3 b=0 n=1000 k=4
+./a05.out : Task = 5 Res = 3.585000e+01 Count = 2001 T = 0.00
+
+a=0 b=5 n=1000 k=4
+./a05.out : Task = 5 Res = 8.404167e+02 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=4
+./a05.out : Task = 5 Res = 2.025316e+09 Count = 2001 T = 0.00
+
+a=-10 b=9 n=1000 k=4
+./a05.out : Task = 5 Res = 3.153588e+04 Count = 2001 T = 0.00
+
+a=-4 b=-1 n=1000 k=5
+./a05.out : Task = 5 Res = 5.187987e+01 Count = 2001 T = 0.00
+
+a=2 b=5 n=1000 k=5
+./a05.out : Task = 5 Res = 1.285973e-01 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=5
+./a05.out : Task = 5 Res = 4.539993e-05 Count = 2001 T = 0.00
+
+a=-9 b=10 n=1000 k=5
+./a05.out : Task = 5 Res = 8.103084e+03 Count = 2001 T = 0.00
+
+a=-10 b=-7 n=1000 k=6
+./a05.out : Task = 5 Res = 1.713265e-03 Count = 2001 T = 0.00
+
+a=6 b=9 n=1000 k=6
+./a05.out : Task = 5 Res = 2.220486e-03 Count = 2001 T = 0.00
+
+a=-1 b=2 n=1000 k=6
+./a05.out : Task = 5 Res = 5.689057e-01 Count = 2001 T = 0.00
+
+a=-10 b=100 n=1000 k=6
+./a05.out : Task = 5 Res = 6.239152e-01 Count = 2001 T = 0.00
+
+a=0 b=100 n=100000 k=5
+./a05.out : Task = 5 Res = 1.000000e+00 Count = 200001 T = 0.01
+
+
+=================
+=== TASK 6 ===
+=================
+a=-1 b=1 n=1000 k=0
+./a06.out : Task = 6 Res = 4.000000e+00 Count = 1001 T = 0.00
+
+a=1e99 b=1e101 n=1000 k=1
+./a06.out : Task = 6 Res = 2.106077e+151 Count = 1001 T = 0.00
+
+a=-1 b=1 n=1000 k=1
+./a06.out : Task = 6 Res = 4.000000e+00 Count = 1001 T = 0.00
+
+a=-5 b=0 n=1000 k=2
+./a06.out : Task = 6 Res = 1.937927e+01 Count = 1001 T = 0.00
+
+a=0 b=7 n=1000 k=2
+./a06.out : Task = 6 Res = 6.949511e+01 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=2
+./a06.out : Task = 6 Res = 4.053279e+04 Count = 1001 T = 0.00
+
+a=-10 b=100 n=1000 k=2
+./a06.out : Task = 6 Res = 4.079845e+04 Count = 1001 T = 0.00
+
+a=-6 b=-3 n=1000 k=3
+./a06.out : Task = 6 Res = -1.136687e+02 Count = 1001 T = 0.00
+
+a=0 b=10 n=1000 k=3
+./a06.out : Task = 6 Res = 1.057407e+03 Count = 1001 T = 0.00
+
+a=-3 b=0 n=1000 k=4
+./a06.out : Task = 6 Res = 2.405081e+01 Count = 1001 T = 0.00
+
+a=0 b=5 n=1000 k=4
+./a06.out : Task = 6 Res = 4.247116e+02 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=4
+./a06.out : Task = 6 Res = 2.251123e+08 Count = 1001 T = 0.00
+
+a=-10 b=9 n=1000 k=4
+./a06.out : Task = 6 Res = 1.135565e+04 Count = 1001 T = 0.00
+
+a=-4 b=-1 n=1000 k=5
+./a06.out : Task = 6 Res = 2.997997e+01 Count = 1001 T = 0.00
+
+a=2 b=5 n=1000 k=5
+./a06.out : Task = 6 Res = 7.787257e-02 Count = 1001 T = 0.00
+
+a=10 b=100 n=1000 k=5
+./a06.out : Task = 6 Res = 1.373553e-05 Count = 1001 T = 0.00
+
+a=-9 b=10 n=1000 k=5
+./a06.out : Task = 6 Res = 2.890950e+03 Count = 1001 T = 0.00
+
+a=-10 b=-7 n=1000 k=6
+./a06.out : Task = 6 Res = 5.962317e-04 Count = 1001 T = 0.00
+
+a=6 b=9 n=1000 k=6
+./a06.out : Task = 6 Res = 8.261282e-04 Count = 1001 T = 0.00
+
+a=-1 b=2 n=1000 k=6
+./a06.out : Task = 6 Res = 1.951280e+00 Count = 1001 T = 0.00
+
+a=-10 b=100 n=1000 k=6
+./a06.out : Task = 6 Res = 1.960885e+00 Count = 1001 T = 0.00
+
+a=0 b=100 n=100000 k=5
+./a06.out : Task = 6 Res = 1.772454e+00 Count = 100001 T = 0.01
+
+
+=================
+=== TASK 7 ===
+=================
+a=-1 b=1 n=1000 k=0
+./a07.out : Task = 7 Res = 4.000000e+00 Count = 2001 T = 0.00
+
+a=1e99 b=1e101 n=1000 k=1
+./a07.out : Task = 7 Res = 2.103259e+151 Count = 2001 T = 0.00
+
+a=-1 b=1 n=1000 k=1
+./a07.out : Task = 7 Res = 3.996000e+00 Count = 2001 T = 0.00
+
+a=-5 b=0 n=1000 k=2
+./a07.out : Task = 7 Res = 1.940537e+01 Count = 2001 T = 0.00
+
+a=0 b=7 n=1000 k=2
+./a07.out : Task = 7 Res = 6.939018e+01 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=2
+./a07.out : Task = 7 Res = 4.047408e+04 Count = 2001 T = 0.00
+
+a=-10 b=100 n=1000 k=2
+./a07.out : Task = 7 Res = 4.072602e+04 Count = 2001 T = 0.00
+
+a=-6 b=-3 n=1000 k=3
+./a07.out : Task = 7 Res = -1.137825e+02 Count = 2001 T = 0.00
+
+a=0 b=10 n=1000 k=3
+./a07.out : Task = 7 Res = 1.055267e+03 Count = 2001 T = 0.00
+
+a=-3 b=0 n=1000 k=4
+./a07.out : Task = 7 Res = 2.410814e+01 Count = 2001 T = 0.00
+
+a=0 b=5 n=1000 k=4
+./a07.out : Task = 7 Res = 4.236972e+02 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=4
+./a07.out : Task = 7 Res = 2.245929e+08 Count = 2001 T = 0.00
+
+a=-10 b=9 n=1000 k=4
+./a07.out : Task = 7 Res = 1.135984e+04 Count = 2001 T = 0.00
+
+a=-4 b=-1 n=1000 k=5
+./a07.out : Task = 7 Res = 3.002496e+01 Count = 2001 T = 0.00
+
+a=2 b=5 n=1000 k=5
+./a07.out : Task = 7 Res = 7.798941e-02 Count = 2001 T = 0.00
+
+a=10 b=100 n=1000 k=5
+./a07.out : Task = 7 Res = 1.435784e-05 Count = 2001 T = 0.00
+
+a=-9 b=10 n=1000 k=5
+./a07.out : Task = 7 Res = 2.918456e+03 Count = 2001 T = 0.00
+
+a=-10 b=-7 n=1000 k=6
+./a07.out : Task = 7 Res = 5.960135e-04 Count = 2001 T = 0.00
+
+a=6 b=9 n=1000 k=6
+./a07.out : Task = 7 Res = 8.264744e-04 Count = 2001 T = 0.00
+
+a=-1 b=2 n=1000 k=6
+./a07.out : Task = 7 Res = 1.951304e+00 Count = 2001 T = 0.00
+
+a=-10 b=100 n=1000 k=6
+./a07.out : Task = 7 Res = 1.938411e+00 Count = 2001 T = 0.00
+
+a=0 b=100 n=100000 k=5
+./a07.out : Task = 7 Res = 1.773340e+00 Count = 200001 T = 0.01
+
+
+=================
+=== TASK 8 ===
+=================
+a=-1 b=1 e=1e-7 k=0
+./a08.out : Task = 8 Res = 2.000000e+00 N = 2 Count = 5 T = 0.00
+
+a=-1 b=1 e=1e-7 k=1
+./a08.out : Task = 8 Res = 2.000000e+00 N = 2 Count = 5 T = 0.00
+
+a=-5 b=0 e=1e-7 k=2
+./a08.out : Task = 8 Res = 3.416667e+01 N = 15 Count = 32769 T = 0.00
+
+a=0 b=7 e=1e-7 k=2
+./a08.out : Task = 8 Res = 1.458333e+02 N = 16 Count = 65537 T = 0.00
+
+a=10 b=100 e=1e-7 k=2
+./a08.out : Task = 8 Res = 3.380400e+05 N = 21 Count = 2097153 T = 0.01
+
+a=-10 b=100 e=1e-7 k=2
+./a08.out : Task = 8 Res = 3.387267e+05 N = 22 Count = 4194305 T = 0.02
+
+a=-6 b=-3 e=1e-7 k=3
+./a08.out : Task = 8 Res = -2.512500e+02 N = 16 Count = 65537 T = 0.00
+
+a=0 b=10 e=1e-7 k=3
+./a08.out : Task = 8 Res = 2.893333e+03 N = 19 Count = 524289 T = 0.00
+
+a=-3 b=0 e=1e-7 k=4
+./a08.out : Task = 8 Res = 3.585000e+01 N = 16 Count = 65537 T = 0.00
+
+a=0 b=5 e=1e-7 k=4
+./a08.out : Task = 8 Res = 8.404167e+02 N = 18 Count = 262145 T = 0.00
+
+a=10 b=100 e=1e-7 k=4
+a=10 b=100 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 b=9 e=1e-7 k=4
+./a08.out : Task = 8 Res = 3.153588e+04 N = 22 Count = 4194305 T = 0.03
+
+a=-4 b=-1 e=1e-7 k=5
+./a08.out : Task = 8 Res = 5.187987e+01 N = 16 Count = 65537 T = 0.00
+
+a=2 b=5 e=1e-7 k=5
+./a08.out : Task = 8 Res = 1.285974e-01 N = 11 Count = 2049 T = 0.00
+
+a=10 b=100 e=1e-7 k=5
+./a08.out : Task = 8 Res = 4.542915e-05 N = 10 Count = 1025 T = 0.00
+
+a=-9 b=10 e=1e-7 k=5
+./a08.out : Task = 8 Res = 8.103084e+03 N = 22 Count = 4194305 T = 0.06
+
+a=-10 b=-7 e=1e-7 k=6
+./a08.out : Task = 8 Res = 1.713293e-03 N = 6 Count = 65 T = 0.00
+
+a=6 b=9 e=1e-7 k=6
+./a08.out : Task = 8 Res = 2.220498e-03 N = 7 Count = 129 T = 0.00
+
+a=-1 b=2 e=1e-7 k=6
+./a08.out : Task = 8 Res = 5.689057e-01 N = 11 Count = 2049 T = 0.00
+
+a=-10 b=100 e=1e-7 k=6
+./a08.out : Task = 8 Res = 6.239191e-01 N = 12 Count = 4097 T = 0.00
+
+
+=================
+=== TASK 9 ===
+=================
+a=-1 b=1 e=1e-7 k=0
+./a09.out : Task = 9 Res = 2.000000e+00 N = 2 Count = 5 T = 0.00
+
+a=-1 b=1 e=1e-7 k=1
+./a09.out : Task = 9 Res = 2.000000e+00 N = 2 Count = 5 T = 0.00
+
+a=-5 b=0 e=1e-7 k=2
+./a09.out : Task = 9 Res = 3.416667e+01 N = 2 Count = 5 T = 0.00
+
+a=0 b=7 e=1e-7 k=2
+./a09.out : Task = 9 Res = 1.458333e+02 N = 2 Count = 5 T = 0.00
+
+a=10 b=100 e=1e-7 k=2
+./a09.out : Task = 9 Res = 3.380400e+05 N = 2 Count = 5 T = 0.00
+
+a=-10 b=100 e=1e-7 k=2
+./a09.out : Task = 9 Res = 3.387267e+05 N = 2 Count = 5 T = 0.00
+
+a=-6 b=-3 e=1e-7 k=3
+./a09.out : Task = 9 Res = -2.512500e+02 N = 2 Count = 5 T = 0.00
+
+a=0 b=10 e=1e-7 k=3
+./a09.out : Task = 9 Res = 2.893333e+03 N = 2 Count = 5 T = 0.00
+
+a=-3 b=0 e=1e-7 k=4
+./a09.out : Task = 9 Res = 3.585000e+01 N = 9 Count = 513 T = 0.00
+
+a=0 b=5 e=1e-7 k=4
+./a09.out : Task = 9 Res = 8.404167e+02 N = 9 Count = 513 T = 0.00
+
+a=10 b=100 e=1e-7 k=4
+a=10 b=100 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 b=9 e=1e-7 k=4
+./a09.out : Task = 9 Res = 3.153588e+04 N = 12 Count = 4097 T = 0.00
+
+a=-4 b=-1 e=1e-7 k=5
+./a09.out : Task = 9 Res = 5.187987e+01 N = 8 Count = 257 T = 0.00
+
+a=2 b=5 e=1e-7 k=5
+./a09.out : Task = 9 Res = 1.285973e-01 N = 6 Count = 65 T = 0.00
+
+a=10 b=100 e=1e-7 k=5
+./a09.out : Task = 9 Res = 4.540373e-05 N = 8 Count = 257 T = 0.00
+
+a=-9 b=10 e=1e-7 k=5
+./a09.out : Task = 9 Res = 8.103084e+03 N = 13 Count = 8193 T = 0.00
+
+a=-10 b=-7 e=1e-7 k=6
+./a09.out : Task = 9 Res = 1.713270e-03 N = 3 Count = 9 T = 0.00
+
+a=6 b=9 e=1e-7 k=6
+./a09.out : Task = 9 Res = 2.220487e-03 N = 4 Count = 17 T = 0.00
+
+a=-1 b=2 e=1e-7 k=6
+./a09.out : Task = 9 Res = 5.689057e-01 N = 8 Count = 257 T = 0.00
+
+a=-10 b=100 e=1e-7 k=6
+./a09.out : Task = 9 Res = 6.239191e-01 N = 13 Count = 8193 T = 0.00
+
+
+=================
+=== TASK 10 ===
+=================
+a=-1 e=1e-7 k=0
+a=-1 e=1e-7 k=0
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-1 e=1e-7 k=1
+a=-1 e=1e-7 k=1
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-5 e=1e-7 k=2
+a=-5 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=2
+a=0 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=10 e=1e-7 k=2
+a=10 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 e=1e-7 k=2
+a=-10 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-6 e=1e-7 k=3
+a=-6 e=1e-7 k=3
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=3
+a=0 e=1e-7 k=3
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-3 e=1e-7 k=4
+a=-3 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=4
+a=0 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=10 e=1e-7 k=4
+a=10 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 e=1e-7 k=4
+a=-10 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-4 e=1e-7 k=5
+./a10.out : Task = 10 Res = 5.459815e+01 B = 5.900000e+01 Count = 53386 T = 0.00
+
+a=2 e=1e-7 k=5
+./a10.out : Task = 10 Res = 1.353354e-01 B = 3.300000e+01 Count = 2825 T = 0.00
+
+a=10 e=1e-7 k=5
+./a10.out : Task = 10 Res = 4.545256e-05 B = 2.500000e+01 Count = 56 T = 0.00
+
+a=-9 e=1e-7 k=5
+./a10.out : Task = 10 Res = 8.103084e+03 B = 5.400000e+01 Count = 591882 T = 0.01
+
+a=-10 e=1e-7 k=6
+./a10.out : Task = 10 Res = 6.243192e-01 B = 5.242770e+05 Count = 3239 T = 0.00
+
+a=6 e=1e-7 k=6
+./a10.out : Task = 10 Res = 6.664381e-03 B = 5.242930e+05 Count = 759 T = 0.00
+
+a=-1 e=1e-7 k=6
+./a10.out : Task = 10 Res = 5.888395e-01 B = 5.242860e+05 Count = 2967 T = 0.00
+
+a=-10 e=1e-7 k=6
+./a10.out : Task = 10 Res = 6.243192e-01 B = 5.242770e+05 Count = 3239 T = 0.00
+
+
+=================
+=== TASK 11 ===
+=================
+a=-1 e=1e-7 k=0
+a=-1 e=1e-7 k=0
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-1 e=1e-7 k=1
+a=-1 e=1e-7 k=1
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-5 e=1e-7 k=2
+a=-5 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=2
+a=0 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=10 e=1e-7 k=2
+a=10 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 e=1e-7 k=2
+a=-10 e=1e-7 k=2
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-6 e=1e-7 k=3
+a=-6 e=1e-7 k=3
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=3
+a=0 e=1e-7 k=3
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-3 e=1e-7 k=4
+a=-3 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=0 e=1e-7 k=4
+a=0 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=10 e=1e-7 k=4
+a=10 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-10 e=1e-7 k=4
+a=-10 e=1e-7 k=4
+ОШИБКА: Программа завершилась с кодом 255
+
+a=-4 e=1e-7 k=5
+./a11.out : Task = 11 Res = 5.459815e+01 B = 5.900000e+01 Count = 682 T = 0.00
+
+a=2 e=1e-7 k=5
+./a11.out : Task = 11 Res = 1.353353e-01 B = 3.300000e+01 Count = 169 T = 0.00
+
+a=10 e=1e-7 k=5
+./a11.out : Task = 11 Res = 4.540860e-05 B = 2.500000e+01 Count = 24 T = 0.00
+
+a=-9 e=1e-7 k=5
+./a11.out : Task = 11 Res = 8.103084e+03 B = 5.400000e+01 Count = 2442 T = 0.00
+
+a=-10 e=1e-7 k=6
+./a11.out : Task = 11 Res = 6.243190e-01 B = 5.242770e+05 Count = 759 T = 0.00
+
+a=6 e=1e-7 k=6
+./a11.out : Task = 11 Res = 6.664158e-03 B = 5.242930e+05 Count = 175 T = 0.00
+
+a=-1 e=1e-7 k=6
+./a11.out : Task = 11 Res = 5.888394e-01 B = 5.242860e+05 Count = 443 T = 0.00
+
+a=-10 e=1e-7 k=6
+./a11.out : Task = 11 Res = 6.243190e-01 B = 5.242770e+05 Count = 759 T = 0.00
+
+
+=================
+=== TASK 12 ===
+=================
+a=-1 b=1 e=1e-6 k1=0 k2=0
+./a12.out : Task = 12 Res = 0.000000e+00 N = 0 Count = 8 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=0 k2=1
+./a12.out : Task = 12 Res = 2.000000e+00 N = 0 Count = 8 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=0 k2=2
+./a12.out : Task = 12 Res = 9.999998e-01 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=0 k2=3
+./a12.out : Task = 12 Res = 2.000000e+00 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=0 k2=4
+./a12.out : Task = 12 Res = 1.999999e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=0 k2=5
+./a12.out : Task = 12 Res = 2.718282e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=0 k2=6
+./a12.out : Task = 12 Res = 7.396518e-02 N = 18 Count = 1048616 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=1 k2=0
+./a12.out : Task = 12 Res = 2.000000e+00 N = 0 Count = 8 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=1 k2=1
+./a12.out : Task = 12 Res = 2.828427e+00 N = 0 Count = 8 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=1 k2=2
+./a12.out : Task = 12 Res = 1.414214e+00 N = 20 Count = 4194348 T = 0.02
+
+a=-1 b=1 e=1e-6 k1=1 k2=3
+./a12.out : Task = 12 Res = 2.236069e+00 N = 19 Count = 2097194 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=1 k2=4
+./a12.out : Task = 12 Res = 2.236067e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=1 k2=5
+./a12.out : Task = 12 Res = 2.896388e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=1 k2=6
+./a12.out : Task = 12 Res = 1.002733e+00 N = 20 Count = 4194348 T = 0.03
+
+a=-1 b=1 e=1e-6 k1=2 k2=0
+./a12.out : Task = 12 Res = 9.999998e-01 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=2 k2=1
+./a12.out : Task = 12 Res = 1.414214e+00 N = 20 Count = 4194348 T = 0.02
+
+a=-1 b=1 e=1e-6 k1=2 k2=2
+./a12.out : Task = 12 Res = 1.414213e+00 N = 12 Count = 16412 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=2 k2=3
+./a12.out : Task = 12 Res = 2.236068e+00 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=2 k2=4
+./a12.out : Task = 12 Res = 2.236067e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=2 k2=5
+./a12.out : Task = 12 Res = 2.896387e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=2 k2=6
+./a12.out : Task = 12 Res = 1.002732e+00 N = 14 Count = 65568 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=3 k2=0
+./a12.out : Task = 12 Res = 2.000000e+00 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=3 k2=1
+./a12.out : Task = 12 Res = 2.236069e+00 N = 19 Count = 2097194 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=3 k2=2
+./a12.out : Task = 12 Res = 2.236068e+00 N = 11 Count = 8218 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=3 k2=3
+./a12.out : Task = 12 Res = 2.828427e+00 N = 12 Count = 16412 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=3 k2=4
+./a12.out : Task = 12 Res = 2.828426e+00 N = 21 Count = 8388654 T = 0.05
+
+a=-1 b=1 e=1e-6 k1=3 k2=5
+./a12.out : Task = 12 Res = 3.374768e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=3 k2=6
+./a12.out : Task = 12 Res = 2.001368e+00 N = 13 Count = 32798 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=4 k2=0
+./a12.out : Task = 12 Res = 1.999999e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=4 k2=1
+./a12.out : Task = 12 Res = 2.236067e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=4 k2=2
+./a12.out : Task = 12 Res = 2.236067e+00 N = 21 Count = 8388654 T = 0.04
+
+a=-1 b=1 e=1e-6 k1=4 k2=3
+./a12.out : Task = 12 Res = 2.828426e+00 N = 21 Count = 8388654 T = 0.05
+
+a=-1 b=1 e=1e-6 k1=4 k2=4
+./a12.out : Task = 12 Res = 2.828426e+00 N = 22 Count = 16777264 T = 0.09
+
+a=-1 b=1 e=1e-6 k1=4 k2=5
+./a12.out : Task = 12 Res = 3.374767e+00 N = 17 Count = 524326 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=4 k2=6
+./a12.out : Task = 12 Res = 2.001366e+00 N = 21 Count = 8388654 T = 0.06
+
+a=-1 b=1 e=1e-6 k1=5 k2=0
+./a12.out : Task = 12 Res = 2.718282e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=5 k2=1
+./a12.out : Task = 12 Res = 2.896388e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=5 k2=2
+./a12.out : Task = 12 Res = 2.896387e+00 N = 21 Count = 8388654 T = 0.08
+
+a=-1 b=1 e=1e-6 k1=5 k2=3
+./a12.out : Task = 12 Res = 3.374768e+00 N = 21 Count = 8388654 T = 0.09
+
+a=-1 b=1 e=1e-6 k1=5 k2=4
+./a12.out : Task = 12 Res = 3.374767e+00 N = 17 Count = 524326 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=5 k2=5
+./a12.out : Task = 12 Res = 3.844232e+00 N = 21 Count = 8388654 T = 0.12
+
+a=-1 b=1 e=1e-6 k1=5 k2=6
+./a12.out : Task = 12 Res = 2.719289e+00 N = 21 Count = 8388654 T = 0.09
+
+a=-1 b=1 e=1e-6 k1=6 k2=0
+./a12.out : Task = 12 Res = 7.396518e-02 N = 18 Count = 1048616 T = 0.01
+
+a=-1 b=1 e=1e-6 k1=6 k2=1
+./a12.out : Task = 12 Res = 1.002733e+00 N = 20 Count = 4194348 T = 0.03
+
+a=-1 b=1 e=1e-6 k1=6 k2=2
+./a12.out : Task = 12 Res = 1.002732e+00 N = 14 Count = 65568 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=6 k2=3
+./a12.out : Task = 12 Res = 2.001368e+00 N = 13 Count = 32798 T = 0.00
+
+a=-1 b=1 e=1e-6 k1=6 k2=4
+./a12.out : Task = 12 Res = 2.001366e+00 N = 21 Count = 8388654 T = 0.06
+
+a=-1 b=1 e=1e-6 k1=6 k2=5
+./a12.out : Task = 12 Res = 2.719289e+00 N = 21 Count = 8388654 T = 0.09
+
+a=-1 b=1 e=1e-6 k1=6 k2=6
+./a12.out : Task = 12 Res = 1.046026e-01 N = 18 Count = 1048616 T = 0.02
+
